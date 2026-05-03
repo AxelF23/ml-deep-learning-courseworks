@@ -6,7 +6,7 @@ Educational and research projects in ML/DL
 
 ## Содержание
 
-### 1. [Сравнение MLP и LeNet-5 на MNIST](./DeepLearning_MIPT/01_MLP_vs_LeNet/)
+### 1. [Сравнение MLP и LeNet-5 на MNIST]
 *   **Стек:** PyTorch, Torchvision, Seaborn.
 *   **Результат:** Реализовал сверточную сеть LeNet-5 и полносвязную модель. Провел анализ преимуществ CNN архитектур для классификации изображений.
 
